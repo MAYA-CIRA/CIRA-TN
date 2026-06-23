@@ -154,7 +154,7 @@ If you use this tool in your research, please cite:
 
 ## 📬 Contact
 
-For questions, collaborations, or feedback, feel free to open an issue or reach out:
+For questions, feedback, feel free to open an issue or reach out:
 
 📧 **T. Mayamanikandan** — tmayaceg@gmail.com
 
